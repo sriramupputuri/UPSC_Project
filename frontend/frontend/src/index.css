@@ -1,0 +1,414 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Navbar Styles */
+.navbar {
+  background-color: #1a1a1a;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.navbar-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffa116;
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+.navbar-links a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.navbar-links a:hover {
+  color: #ffa116;
+}
+
+.navbar-user {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s;
+}
+
+.btn-primary {
+  background-color: #ffa116;
+  color: #000;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #ff8800;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: #ffa116;
+  border: 1px solid #ffa116;
+}
+
+.btn-secondary:hover {
+  background-color: #ffa116;
+  color: #000;
+}
+
+/* Card Styles */
+.card {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.card:hover {
+  border-color: #3a3a3a;
+}
+
+/* Difficulty Badge */
+.difficulty {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.difficulty-easy {
+  background-color: rgba(0, 184, 163, 0.1);
+  color: #00b8a3;
+}
+
+.difficulty-medium {
+  background-color: rgba(255, 161, 22, 0.1);
+  color: #ffa116;
+}
+
+.difficulty-hard {
+  background-color: rgba(239, 71, 111, 0.1);
+  color: #ef476f;
+}
+
+/* Input Styles */
+input, textarea, select {
+  background-color: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  color: #ffffff;
+  padding: 0.75rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: #ffa116;
+}
+
+/* Loading Spinner */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+  font-size: 1.2rem;
+  color: #ffa116;
+}
+
+/* Grid Layouts */
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.grid-2 {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-3 {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+/* Streak Calendar */
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.calendar-day {
+  aspect-ratio: 1;
+  background-color: #2a2a2a;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.calendar-day:hover {
+  transform: scale(1.05);
+}
+
+.calendar-day.completed {
+  background-color: #ef476f;
+}
+
+.calendar-day.today {
+  background-color: #00b8a3;
+  font-weight: bold;
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #1a1a1a;
+  border-bottom: 2px solid #2a2a2a;
+}
+
+th, td {
+  padding: 1rem;
+  text-align: left;
+}
+
+tbody tr {
+  border-bottom: 1px solid #2a2a2a;
+}
+
+tbody tr:hover {
+  background-color: #1a1a1a;
+}
+
+/* Timer */
+.timer {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffa116;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+/* Badge Icon */
+.badge-icon {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+/* Subtopics Grid */
+.subtopics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.subtopic-card {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: flex-start;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.subtopic-card:hover {
+  transform: translateY(-4px);
+  border-color: #ffa116;
+  box-shadow: 0 10px 30px rgba(255, 161, 22, 0.1);
+}
+
+.subtopic-card__icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #0a0a0a;
+}
+
+.subtopic-card__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.subtopic-card__desc {
+  font-size: 0.95rem;
+  color: #c7c7c7;
+}
+
+/* Flash Cards */
+.flashcard {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.flashcard:hover {
+  transform: translateY(-4px);
+  border-color: #ffa116;
+  box-shadow: 0 12px 30px rgba(255, 161, 22, 0.08);
+}
+
+.flashcard__title {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.flashcard__desc {
+  color: #c7c7c7;
+  line-height: 1.4;
+  flex-grow: 1;
+}
+
+.flashcard__btn {
+  align-self: flex-start;
+  background-color: #ffa116;
+  color: #0a0a0a;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1.25rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.flashcard__btn:hover {
+  background-color: #ff8800;
+  transform: translateY(-1px);
+}
+
+/* 3D Rotation Effect for Home Page Cards */
+.card-3d {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease, background 0.3s ease;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.card-3d:hover {
+  transform: perspective(1000px) rotateY(8deg) rotateX(4deg) translateY(-8px);
+}
+
+/* Click/Active state - shows border and scales down slightly */
+.card-3d:active {
+  transform: scale(0.98);
+  transition: transform 0.1s ease;
+}
+
+/* Pulsing glow animation for active cards */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 20px currentColor, 0 0 40px currentColor;
+  }
+  50% {
+    box-shadow: 0 0 30px currentColor, 0 0 60px currentColor;
+  }
+}

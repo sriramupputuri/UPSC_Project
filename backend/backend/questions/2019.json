@@ -1,0 +1,1206 @@
+{
+  "year": 2019,
+  "total": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "2019 — Question 1: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q1",
+        "B": "Option B for Q1",
+        "C": "Option C for Q1",
+        "D": "Option D for Q1"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "2019 — Question 2: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q2",
+        "B": "Option B for Q2",
+        "C": "Option C for Q2",
+        "D": "Option D for Q2"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "2019 — Question 3: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q3",
+        "B": "Option B for Q3",
+        "C": "Option C for Q3",
+        "D": "Option D for Q3"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "2019 — Question 4: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q4",
+        "B": "Option B for Q4",
+        "C": "Option C for Q4",
+        "D": "Option D for Q4"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "2019 — Question 5: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q5",
+        "B": "Option B for Q5",
+        "C": "Option C for Q5",
+        "D": "Option D for Q5"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "2019 — Question 6: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q6",
+        "B": "Option B for Q6",
+        "C": "Option C for Q6",
+        "D": "Option D for Q6"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "2019 — Question 7: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q7",
+        "B": "Option B for Q7",
+        "C": "Option C for Q7",
+        "D": "Option D for Q7"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "2019 — Question 8: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q8",
+        "B": "Option B for Q8",
+        "C": "Option C for Q8",
+        "D": "Option D for Q8"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "2019 — Question 9: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q9",
+        "B": "Option B for Q9",
+        "C": "Option C for Q9",
+        "D": "Option D for Q9"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "2019 — Question 10: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q10",
+        "B": "Option B for Q10",
+        "C": "Option C for Q10",
+        "D": "Option D for Q10"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "2019 — Question 11: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q11",
+        "B": "Option B for Q11",
+        "C": "Option C for Q11",
+        "D": "Option D for Q11"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "2019 — Question 12: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q12",
+        "B": "Option B for Q12",
+        "C": "Option C for Q12",
+        "D": "Option D for Q12"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "2019 — Question 13: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q13",
+        "B": "Option B for Q13",
+        "C": "Option C for Q13",
+        "D": "Option D for Q13"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "2019 — Question 14: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q14",
+        "B": "Option B for Q14",
+        "C": "Option C for Q14",
+        "D": "Option D for Q14"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "2019 — Question 15: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q15",
+        "B": "Option B for Q15",
+        "C": "Option C for Q15",
+        "D": "Option D for Q15"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "2019 — Question 16: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q16",
+        "B": "Option B for Q16",
+        "C": "Option C for Q16",
+        "D": "Option D for Q16"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "2019 — Question 17: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q17",
+        "B": "Option B for Q17",
+        "C": "Option C for Q17",
+        "D": "Option D for Q17"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "2019 — Question 18: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q18",
+        "B": "Option B for Q18",
+        "C": "Option C for Q18",
+        "D": "Option D for Q18"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "2019 — Question 19: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q19",
+        "B": "Option B for Q19",
+        "C": "Option C for Q19",
+        "D": "Option D for Q19"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "2019 — Question 20: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q20",
+        "B": "Option B for Q20",
+        "C": "Option C for Q20",
+        "D": "Option D for Q20"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "2019 — Question 21: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q21",
+        "B": "Option B for Q21",
+        "C": "Option C for Q21",
+        "D": "Option D for Q21"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "2019 — Question 22: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q22",
+        "B": "Option B for Q22",
+        "C": "Option C for Q22",
+        "D": "Option D for Q22"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "2019 — Question 23: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q23",
+        "B": "Option B for Q23",
+        "C": "Option C for Q23",
+        "D": "Option D for Q23"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "2019 — Question 24: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q24",
+        "B": "Option B for Q24",
+        "C": "Option C for Q24",
+        "D": "Option D for Q24"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "2019 — Question 25: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q25",
+        "B": "Option B for Q25",
+        "C": "Option C for Q25",
+        "D": "Option D for Q25"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "2019 — Question 26: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q26",
+        "B": "Option B for Q26",
+        "C": "Option C for Q26",
+        "D": "Option D for Q26"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "2019 — Question 27: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q27",
+        "B": "Option B for Q27",
+        "C": "Option C for Q27",
+        "D": "Option D for Q27"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "2019 — Question 28: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q28",
+        "B": "Option B for Q28",
+        "C": "Option C for Q28",
+        "D": "Option D for Q28"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "2019 — Question 29: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q29",
+        "B": "Option B for Q29",
+        "C": "Option C for Q29",
+        "D": "Option D for Q29"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "2019 — Question 30: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q30",
+        "B": "Option B for Q30",
+        "C": "Option C for Q30",
+        "D": "Option D for Q30"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "2019 — Question 31: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q31",
+        "B": "Option B for Q31",
+        "C": "Option C for Q31",
+        "D": "Option D for Q31"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "question": "2019 — Question 32: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q32",
+        "B": "Option B for Q32",
+        "C": "Option C for Q32",
+        "D": "Option D for Q32"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "question": "2019 — Question 33: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q33",
+        "B": "Option B for Q33",
+        "C": "Option C for Q33",
+        "D": "Option D for Q33"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "question": "2019 — Question 34: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q34",
+        "B": "Option B for Q34",
+        "C": "Option C for Q34",
+        "D": "Option D for Q34"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "question": "2019 — Question 35: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q35",
+        "B": "Option B for Q35",
+        "C": "Option C for Q35",
+        "D": "Option D for Q35"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "question": "2019 — Question 36: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q36",
+        "B": "Option B for Q36",
+        "C": "Option C for Q36",
+        "D": "Option D for Q36"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "question": "2019 — Question 37: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q37",
+        "B": "Option B for Q37",
+        "C": "Option C for Q37",
+        "D": "Option D for Q37"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "question": "2019 — Question 38: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q38",
+        "B": "Option B for Q38",
+        "C": "Option C for Q38",
+        "D": "Option D for Q38"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "question": "2019 — Question 39: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q39",
+        "B": "Option B for Q39",
+        "C": "Option C for Q39",
+        "D": "Option D for Q39"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "2019 — Question 40: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q40",
+        "B": "Option B for Q40",
+        "C": "Option C for Q40",
+        "D": "Option D for Q40"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "2019 — Question 41: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q41",
+        "B": "Option B for Q41",
+        "C": "Option C for Q41",
+        "D": "Option D for Q41"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "question": "2019 — Question 42: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q42",
+        "B": "Option B for Q42",
+        "C": "Option C for Q42",
+        "D": "Option D for Q42"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "question": "2019 — Question 43: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q43",
+        "B": "Option B for Q43",
+        "C": "Option C for Q43",
+        "D": "Option D for Q43"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "2019 — Question 44: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q44",
+        "B": "Option B for Q44",
+        "C": "Option C for Q44",
+        "D": "Option D for Q44"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "question": "2019 — Question 45: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q45",
+        "B": "Option B for Q45",
+        "C": "Option C for Q45",
+        "D": "Option D for Q45"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 46,
+      "question": "2019 — Question 46: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q46",
+        "B": "Option B for Q46",
+        "C": "Option C for Q46",
+        "D": "Option D for Q46"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 47,
+      "question": "2019 — Question 47: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q47",
+        "B": "Option B for Q47",
+        "C": "Option C for Q47",
+        "D": "Option D for Q47"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "2019 — Question 48: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q48",
+        "B": "Option B for Q48",
+        "C": "Option C for Q48",
+        "D": "Option D for Q48"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 49,
+      "question": "2019 — Question 49: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q49",
+        "B": "Option B for Q49",
+        "C": "Option C for Q49",
+        "D": "Option D for Q49"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "question": "2019 — Question 50: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q50",
+        "B": "Option B for Q50",
+        "C": "Option C for Q50",
+        "D": "Option D for Q50"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 51,
+      "question": "2019 — Question 51: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q51",
+        "B": "Option B for Q51",
+        "C": "Option C for Q51",
+        "D": "Option D for Q51"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 52,
+      "question": "2019 — Question 52: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q52",
+        "B": "Option B for Q52",
+        "C": "Option C for Q52",
+        "D": "Option D for Q52"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 53,
+      "question": "2019 — Question 53: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q53",
+        "B": "Option B for Q53",
+        "C": "Option C for Q53",
+        "D": "Option D for Q53"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 54,
+      "question": "2019 — Question 54: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q54",
+        "B": "Option B for Q54",
+        "C": "Option C for Q54",
+        "D": "Option D for Q54"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 55,
+      "question": "2019 — Question 55: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q55",
+        "B": "Option B for Q55",
+        "C": "Option C for Q55",
+        "D": "Option D for Q55"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 56,
+      "question": "2019 — Question 56: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q56",
+        "B": "Option B for Q56",
+        "C": "Option C for Q56",
+        "D": "Option D for Q56"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 57,
+      "question": "2019 — Question 57: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q57",
+        "B": "Option B for Q57",
+        "C": "Option C for Q57",
+        "D": "Option D for Q57"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 58,
+      "question": "2019 — Question 58: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q58",
+        "B": "Option B for Q58",
+        "C": "Option C for Q58",
+        "D": "Option D for Q58"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 59,
+      "question": "2019 — Question 59: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q59",
+        "B": "Option B for Q59",
+        "C": "Option C for Q59",
+        "D": "Option D for Q59"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 60,
+      "question": "2019 — Question 60: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q60",
+        "B": "Option B for Q60",
+        "C": "Option C for Q60",
+        "D": "Option D for Q60"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 61,
+      "question": "2019 — Question 61: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q61",
+        "B": "Option B for Q61",
+        "C": "Option C for Q61",
+        "D": "Option D for Q61"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 62,
+      "question": "2019 — Question 62: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q62",
+        "B": "Option B for Q62",
+        "C": "Option C for Q62",
+        "D": "Option D for Q62"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 63,
+      "question": "2019 — Question 63: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q63",
+        "B": "Option B for Q63",
+        "C": "Option C for Q63",
+        "D": "Option D for Q63"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 64,
+      "question": "2019 — Question 64: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q64",
+        "B": "Option B for Q64",
+        "C": "Option C for Q64",
+        "D": "Option D for Q64"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 65,
+      "question": "2019 — Question 65: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q65",
+        "B": "Option B for Q65",
+        "C": "Option C for Q65",
+        "D": "Option D for Q65"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 66,
+      "question": "2019 — Question 66: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q66",
+        "B": "Option B for Q66",
+        "C": "Option C for Q66",
+        "D": "Option D for Q66"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 67,
+      "question": "2019 — Question 67: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q67",
+        "B": "Option B for Q67",
+        "C": "Option C for Q67",
+        "D": "Option D for Q67"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 68,
+      "question": "2019 — Question 68: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q68",
+        "B": "Option B for Q68",
+        "C": "Option C for Q68",
+        "D": "Option D for Q68"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 69,
+      "question": "2019 — Question 69: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q69",
+        "B": "Option B for Q69",
+        "C": "Option C for Q69",
+        "D": "Option D for Q69"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 70,
+      "question": "2019 — Question 70: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q70",
+        "B": "Option B for Q70",
+        "C": "Option C for Q70",
+        "D": "Option D for Q70"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 71,
+      "question": "2019 — Question 71: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q71",
+        "B": "Option B for Q71",
+        "C": "Option C for Q71",
+        "D": "Option D for Q71"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 72,
+      "question": "2019 — Question 72: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q72",
+        "B": "Option B for Q72",
+        "C": "Option C for Q72",
+        "D": "Option D for Q72"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 73,
+      "question": "2019 — Question 73: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q73",
+        "B": "Option B for Q73",
+        "C": "Option C for Q73",
+        "D": "Option D for Q73"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 74,
+      "question": "2019 — Question 74: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q74",
+        "B": "Option B for Q74",
+        "C": "Option C for Q74",
+        "D": "Option D for Q74"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 75,
+      "question": "2019 — Question 75: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q75",
+        "B": "Option B for Q75",
+        "C": "Option C for Q75",
+        "D": "Option D for Q75"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 76,
+      "question": "2019 — Question 76: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q76",
+        "B": "Option B for Q76",
+        "C": "Option C for Q76",
+        "D": "Option D for Q76"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 77,
+      "question": "2019 — Question 77: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q77",
+        "B": "Option B for Q77",
+        "C": "Option C for Q77",
+        "D": "Option D for Q77"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 78,
+      "question": "2019 — Question 78: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q78",
+        "B": "Option B for Q78",
+        "C": "Option C for Q78",
+        "D": "Option D for Q78"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 79,
+      "question": "2019 — Question 79: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q79",
+        "B": "Option B for Q79",
+        "C": "Option C for Q79",
+        "D": "Option D for Q79"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 80,
+      "question": "2019 — Question 80: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q80",
+        "B": "Option B for Q80",
+        "C": "Option C for Q80",
+        "D": "Option D for Q80"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 81,
+      "question": "2019 — Question 81: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q81",
+        "B": "Option B for Q81",
+        "C": "Option C for Q81",
+        "D": "Option D for Q81"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 82,
+      "question": "2019 — Question 82: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q82",
+        "B": "Option B for Q82",
+        "C": "Option C for Q82",
+        "D": "Option D for Q82"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 83,
+      "question": "2019 — Question 83: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q83",
+        "B": "Option B for Q83",
+        "C": "Option C for Q83",
+        "D": "Option D for Q83"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 84,
+      "question": "2019 — Question 84: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q84",
+        "B": "Option B for Q84",
+        "C": "Option C for Q84",
+        "D": "Option D for Q84"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 85,
+      "question": "2019 — Question 85: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q85",
+        "B": "Option B for Q85",
+        "C": "Option C for Q85",
+        "D": "Option D for Q85"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 86,
+      "question": "2019 — Question 86: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q86",
+        "B": "Option B for Q86",
+        "C": "Option C for Q86",
+        "D": "Option D for Q86"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 87,
+      "question": "2019 — Question 87: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q87",
+        "B": "Option B for Q87",
+        "C": "Option C for Q87",
+        "D": "Option D for Q87"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 88,
+      "question": "2019 — Question 88: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q88",
+        "B": "Option B for Q88",
+        "C": "Option C for Q88",
+        "D": "Option D for Q88"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 89,
+      "question": "2019 — Question 89: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q89",
+        "B": "Option B for Q89",
+        "C": "Option C for Q89",
+        "D": "Option D for Q89"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 90,
+      "question": "2019 — Question 90: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q90",
+        "B": "Option B for Q90",
+        "C": "Option C for Q90",
+        "D": "Option D for Q90"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 91,
+      "question": "2019 — Question 91: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q91",
+        "B": "Option B for Q91",
+        "C": "Option C for Q91",
+        "D": "Option D for Q91"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 92,
+      "question": "2019 — Question 92: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q92",
+        "B": "Option B for Q92",
+        "C": "Option C for Q92",
+        "D": "Option D for Q92"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 93,
+      "question": "2019 — Question 93: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q93",
+        "B": "Option B for Q93",
+        "C": "Option C for Q93",
+        "D": "Option D for Q93"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 94,
+      "question": "2019 — Question 94: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q94",
+        "B": "Option B for Q94",
+        "C": "Option C for Q94",
+        "D": "Option D for Q94"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 95,
+      "question": "2019 — Question 95: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q95",
+        "B": "Option B for Q95",
+        "C": "Option C for Q95",
+        "D": "Option D for Q95"
+      },
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": 96,
+      "question": "2019 — Question 96: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q96",
+        "B": "Option B for Q96",
+        "C": "Option C for Q96",
+        "D": "Option D for Q96"
+      },
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 97,
+      "question": "2019 — Question 97: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q97",
+        "B": "Option B for Q97",
+        "C": "Option C for Q97",
+        "D": "Option D for Q97"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 98,
+      "question": "2019 — Question 98: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q98",
+        "B": "Option B for Q98",
+        "C": "Option C for Q98",
+        "D": "Option D for Q98"
+      },
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 99,
+      "question": "2019 — Question 99: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q99",
+        "B": "Option B for Q99",
+        "C": "Option C for Q99",
+        "D": "Option D for Q99"
+      },
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": 100,
+      "question": "2019 — Question 100: Placeholder question text. Replace with real UPSC question.",
+      "options": {
+        "A": "Option A for Q100",
+        "B": "Option B for Q100",
+        "C": "Option C for Q100",
+        "D": "Option D for Q100"
+      },
+      "answer": "D",
+      "explanation": ""
+    }
+  ]
+}
